@@ -1,0 +1,26 @@
+{
+    "features": [
+        "jaccard_similarity",
+        "user_coverage",
+        "recipe_coverage",
+        "matched_ingredients",
+        "missing_ingredients",
+        "user_ingredient_count",
+        "recipe_ingredient_count"
+    ],
+    "validation": {
+        "accuracy": 0.9983619983619983,
+        "precision": 0.9934906427990235,
+        "recall": 1.0,
+        "f1_score": 0.996734693877551,
+        "roc_auc": 0.9999787591925184
+    },
+    "test": {
+        "accuracy": 0.9977477477477478,
+        "precision": 0.9910714285714286,
+        "recall": 1.0,
+        "f1_score": 0.9955156950672646,
+        "roc_auc": 0.9999509225553451
+    },
+    "training_labels_are_synthetic": true
+}
