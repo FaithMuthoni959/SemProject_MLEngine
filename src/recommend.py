@@ -2,14 +2,9 @@
 import ast
 import re
 from pathlib import Path
-
 import numpy as np
 import pandas as pd
 
-
-# ============================================================
-# CONFIGURATION
-# ============================================================
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
@@ -25,10 +20,8 @@ SEMANTIC_THRESHOLD = 0.62
 
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
-
-# ============================================================
 # INGREDIENT NORMALISATION
-# ============================================================
+
 
 PREPARATION_WORDS = {
     "fresh",
@@ -160,9 +153,9 @@ def normalize_ingredient_list(ingredients):
     }
 
 
-# ============================================================
+
 # SEMANTIC MATCHING
-# ============================================================
+
 
 def load_semantic_model():
     """Load the pretrained embedding model when required."""
@@ -218,10 +211,7 @@ def get_embeddings(ingredient_names):
 
 
 def is_conflicting_milk_match(first, second):
-    """
-    Do not treat dairy milk and plant-based milk as equivalent.
-    Exact matches are checked separately before this function.
-    """
+    
     plant_milks = {
         "coconut milk",
         "almond milk",
@@ -260,9 +250,6 @@ def semantic_similarity(first, second, embeddings):
     return float(np.dot(first_embedding, second_embedding))
 
 
-# ============================================================
-# INGREDIENT MATCHING
-# ============================================================
 
 def match_ingredients(user_ingredients, recipe_ingredients):
     """
@@ -556,9 +543,6 @@ def recommend_recipes(user_ingredients, recipes, top_n=TOP_N):
     return recommendations[:top_n]
 
 
-# ============================================================
-# MAIN PROGRAM
-# ============================================================
 
 def main():
     print("=" * 50)

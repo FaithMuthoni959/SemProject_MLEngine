@@ -1,0 +1,161 @@
+ingredient_a,ingredient_b,cosine_similarity,label
+carrot,carrots (gajjar),,1.0
+cow peas,black eyed peas (lobia),,1.0
+aubergine,eggplant,,1.0
+minced beef,ground beef,,1.0
+cow milk,milk,,1.0
+milk,coconut milk,,0.0
+potato,sweet potato,,0.0
+green peas,black eyed peas,,0.0
+beef,chicken,,0.0
+white rice,brown rice,,0.0
+masauras,meat masala,0.5819560885429382,0.0
+red sorghum flour,sorghum,0.7272533178329468,0.0
+green peas (matar),pigeon peas,0.6923415064811707,0.0
+kalamansi (philippine small lime),mangai vathal (dried mango),0.5118916630744934,0.0
+cabbage,purple cabbage,0.8599262237548828,0.0
+edible camphor (pacha karpooram),roasted gram dal (pottukadalai),0.5119791030883789,0.0
+beer,bourbon,0.5820446610450745,0.0
+cranberries,fried bread cubes (croutons),0.43168962001800537,0.0
+ciabatta bread,mini pita breads,0.5183842182159424,0.0
+barbeque masala,kebab masala,0.66835618019104,0.0
+chana jor garam,pav bhaji masala,0.5108602046966553,0.0
+brown rice,dosa rice,0.6663175821304321,0.0
+cranberries,dried blackberries,0.6278382539749146,0.0
+rabdi,rabodi (dried corn papad),0.5205304622650146,0.0
+अनारदाना,अमरुद,0.7903363108634949,0.0
+bhang paste,बोटी,0.3899179697036743,0.0
+अवरेकालू,एप्पल साइडर सिरका,0.8203489780426025,0.0
+chilled butter,chilled water,0.5946328639984131,0.0
+rasna,summac,0.4011614918708801,0.0
+jackfruit ripe (kathal),palm fruit,0.4669521152973175,0.0
+dry mix herbs,mixed dry fruits,0.5783822536468506,0.0
+bathua leaves,sukumawiki leaves,0.44233667850494385,0.0
+botis,sprouted ragi,0.3646708130836487,0.0
+फ्लैक्स सीड्स पाउडर,मिक्स्ड सब्जिआ,0.7657198905944824,0.0
+ठंडा पानी,पुदीना,0.8708206415176392,0.0
+टिंडा,टिल का तेल,0.8384437561035156,0.0
+sauerkraut,singhade (water chestnut),0.47215354442596436,0.0
+bananas,raw banana,0.7798436284065247,0.0
+black pepper,yellow bell pepper (capsicum),0.6827207207679749,0.0
+chayote,soya chaap,0.5733156800270081,0.0
+green beans,green chawli beans (yard long beans/karamani/barbati),0.6471061706542969,0.0
+cheese slices,processed cheese,0.613960862159729,0.0
+gruyere cheese,mozzarella cheese,0.6460164785385132,0.0
+basmati rice,white-rice,0.7027778029441833,0.0
+इलाइची,सेवई,1.0,0.0
+जायफल पाउडर,सौंफ पाउडर,1.0,0.0
+इलाईची,घुड़,1.0,0.0
+bhaja masala,rooh afza sharbat,0.47179675102233887,0.0
+ग्रीन चिल्ली सॉस,थाई स्वीट चिल्ली सॉस,0.845414400100708,0.0
+kaddu (parangikai/ pumpkin),pumpkin leaves,0.5175401568412781,0.0
+अदरक पाउडर,अनारदाना पाउडर,0.9142700433731079,0.0
+लहसुन चटनी,लेमन ग्रास,0.8087930679321289,0.0
+काला जीरा,नारीयल पानी,0.8500455617904663,0.0
+almond essence (badam essence),vanilla essence,0.6533217430114746,0.0
+goat meat,minced beef,0.5288196802139282,0.0
+basil seeds (sabja),mustard seeds (rai/ kadugu),0.5677826404571533,0.0
+brown sugar (demerara sugar),sugar,0.6550713777542114,0.0
+अचारी मसाला,पूरी काली मिर्च,0.8750036358833313,0.0
+हरा बीन्स,हरी,0.8178086280822754,0.0
+छेडार चीज़,छोटे प्याज,0.8249874711036682,0.0
+elephant yam (suran/senai/ratalu),kaddu (parangikai/ pumpkin),0.524977445602417,0.0
+half and half,thin semiya (seviyan),0.33247897028923035,0.0
+hard taco shells,taco seasoning,0.5024216175079346,0.0
+garlic butter,herb butter,0.7355424165725708,0.0
+enos fruit salt,fresh fruits,0.567273736000061,0.0
+cluster fig (gular),gilka (sponge/silk squash),0.36799344420433044,0.0
+fresh red chilli,red chilli flakes,0.7961512804031372,0.0
+रागी सेमिया,राजमा,0.8920252323150635,0.0
+cayenne pepper,orange bell pepper (capsicum),0.6164398789405823,0.0
+bicarbonate of soda,charcoal,0.3316182792186737,0.0
+beer,tequila,0.5559143424034119,0.0
+एवोकाडो,कोकोआ पाउडर,0.7865959405899048,0.0
+इलाइची,ऑरेगानो,1.000000238418579,0.0
+nendra pazham banana (ripe),raw banana,0.6692763566970825,0.0
+coriander,coriander leaves,0.8567456007003784,0.0
+fenugreek leaves,pumpkin leaves,0.5432002544403076,0.0
+margarine (reduced calorie),wheat berries/ whole wheat,0.3538742661476135,0.0
+अदरक पाउडर,कस्टर्ड पाउडर,0.8719106912612915,0.0
+knol khol leaves (ganth gobi leaves),thonnai (dried leaves),0.5012662410736084,0.0                              
+mushrooms,pistachios,0.49929672479629517,0.0
+mint,mint rice,0.6758980751037598,0.0
+half and half,whole egg,0.39481687545776367,0.0
+नारियल,नोल नोल,0.8184515237808228,0.0
+pav bhaji masala,काले,0.5882496237754822,0.0
+brinjals,long green brinjal,0.7120735049247742,0.0
+dry dates powder (kharik pud),hazelnut meal (powder),0.48312878608703613,0.0
+chilli pepper,poblano chillies,0.5994229912757874,0.0
+kasuri methi (dried fenugreek leaves),knol khol leaves (ganth gobi leaves),0.4938604235649109,0.0
+chocolate cake,chocolate ice cream,0.6810736656188965,0.0
+cumin,nutmeg,0.38311585783958435,0.0
+slider bun,soup buns,0.5729280710220337,0.0
+barley flour,jowar flour (sorghum),0.715178370475769,0.0
+काले बीन्स,केला,0.855604350566864,0.0
+coca cola,milk chocolate,0.4866149127483368,0.0
+cashew nuts,walnuts,0.6191449165344238,0.0
+black rice,black sesame seeds,0.6386058330535889,0.0
+बीटरूट,मूंगफली बटर,0.8450546264648438,0.0
+carrot (gajjar),khurchan (leftover from homemade ghee),0.4755145311355591,0.0
+raisins,walnuts,0.5648931264877319,0.0
+curry leaves,tea leaves,0.5180744528770447,0.0
+भिन्डी (ओखरा),राइस नूडल्स,0.7678091526031494,0.0
+chick peas,garden peas,0.8899033069610596,0.0
+soya sauce,veeba sweet chilli sauce,0.6517961621284485,0.0
+emami rice bran oil,fried rice,0.5720970630645752,0.0
+रसम पाउडर,रोसमैरी,0.8223510980606079,
+green olives,mixed greens,0.6028286218643188,0.0                        
+बेबी कॉर्न,ब्राउन राइस,0.8001278638839722,
+bhindi/okra/vendaikkai,khoya (mawa),0.5181595087051392,
+चक्र फूल,चेरी,0.7804344892501831,
+चिकन ब्रैस्ट,ड्रमस्टिक,0.791257917881012,
+राबोडी,रेड चिल्ली फलैक्स,0.8337162733078003,
+coconut cream,dry coconut (kopra),0.6441335678100586,0.0
+caster sugar,palm sugar,0.5743018388748169,0.0
+coffee decoction,filter coffee powder,0.6060937643051147,0.0
+इडली,मूंगफली,1.0,
+black pepper powder,instant coffee powder,0.6164579391479492,0.0
+italian bread,mini pita breads,0.5858842730522156,0.0
+milk powder,sour milk,0.6489312648773193,  
+चिचिंदा,तंदूरी चिकन मसाला,0.8094127178192139,
+जावित्री,शाही जीरा,0.7725872993469238,
+cayenne pepper,yellow bell pepper (capsicum),0.6043833494186401,0.0
+tomato ketchup,tomato paste,0.5579981803894043,0.0
+cow blood,cow cream,0.5775197744369507,0.0
+chana jor garam,hara chana,0.6042191386222839,0.0
+आमला,आलू मसाला,0.9063440561294556,
+नटमेग पाउडर,मिर्ची पाउडर,0.8529696464538574,
+tandoori marinade,teriyaki sauce,0.49418169260025024,0.0
+whole chicken,whole egg,0.6824353933334351,0.0
+करी पत्ते,क्रीम,0.7940673232078552,
+राइ,स्प्राइट,1.0,
+सरसो का तेल,सोयाा सॉस,0.7876874208450317,
+garden peas,sugar snap peas,0.7587462663650513,0.0
+soy flour,wheat flour,0.7703185081481934,0.0
+linguine pasta,pasta fusilli,0.6178387999534607,0.0
+dry red chilli,thai red chilli (birds eye chilli),0.639741063117981,0.0
+french bread,hot dog bread,0.6510951519012451,0.0
+ओलिव का तेल,सिंघाड़े का आटा,0.8327656388282776,
+संतरा,सेव,0.730160117149353,
+za'atar,अंडे,0.43456244468688965,
+singoda flour (water chestnut),tapioca flour (sago),0.6159101724624634,0.0
+dark rum,strawberry vodka,0.5549776554107666,0.0
+पुरे काली मिर्च मकई,हरी शिमलामिर्च,0.8664811849594116,
+पीनट बटर,बीटरूट,0.9504780769348145,
+coriander (dhania) powder,coriander seeds,0.6552022099494934,
+अनार के दाने,अमरांथ के पत्ते,0.7792891263961792,
+lemon juice,lemongrass,0.6607246994972229,
+fettuccine pasta,spaghetti pasta,0.7319158315658569,
+रेड चिल्ली सॉस,रोस्टेड चना दाल,0.9351969957351685,
+chicken masala,kebab masala,0.7019696235656738,
+pink food colour,yellow food colour,0.6846668720245361,
+black currant (dried),mixed herbs (dried),0.5117578506469727,
+aam papad (sun dried mango),raw papaya,0.6465160846710205,
+brahmi leaves,kaffir lime leaves,0.4718182682991028,
+chilli pepper,green chilli,0.796406626701355,
+aloo bhujia,saoji masala,0.49316951632499695,
+चारकोल,चेरी,0.8436199426651001,
+rose petals,rose syrup,0.6325688362121582,
+black olives,kalamata olives,0.7280786633491516,
+कश्मीरी मसाला पाउडर,काली मिर्च पाउडर,0.8923311233520508,
+kokum (malabar tamarind),काले,0.4741761386394501,
